@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelsilva1898
-- 👀 I’m interested in ... Front-End
-- 🌱 I’m currently learning ...Css - Js
-- 💞️ I’m looking to collaborate on ... Projetos Open-Source    
+- 👀 I’m interested in ... Java
+- 🌱 I’m currently learning ...Java
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me .. samuel1898@live.com
 
 
